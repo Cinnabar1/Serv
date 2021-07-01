@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerTVC", "ServerTVC\ServerTVC.csproj", "{B3AE00B3-6073-4187-B605-6B366AB074EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3AE00B3-6073-4187-B605-6B366AB074EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AE00B3-6073-4187-B605-6B366AB074EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AE00B3-6073-4187-B605-6B366AB074EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AE00B3-6073-4187-B605-6B366AB074EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758FA6CE-E15C-405D-B883-65D2ECB23677}
+	EndGlobalSection
+EndGlobal

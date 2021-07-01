@@ -1,0 +1,10 @@
+C:\Users\gl735v\source\repos\ServerTVC\ServerTVC\bin\Debug\ServerTVC.exe.config
+C:\Users\gl735v\source\repos\ServerTVC\ServerTVC\bin\Debug\ServerTVC.exe
+C:\Users\gl735v\source\repos\ServerTVC\ServerTVC\bin\Debug\ServerTVC.pdb
+C:\Users\gl735v\source\repos\ServerTVC\ServerTVC\obj\Debug\ServerTVC.csprojAssemblyReference.cache
+C:\Users\gl735v\source\repos\ServerTVC\ServerTVC\obj\Debug\ServerTVC.Form1.resources
+C:\Users\gl735v\source\repos\ServerTVC\ServerTVC\obj\Debug\ServerTVC.Properties.Resources.resources
+C:\Users\gl735v\source\repos\ServerTVC\ServerTVC\obj\Debug\ServerTVC.csproj.GenerateResource.cache
+C:\Users\gl735v\source\repos\ServerTVC\ServerTVC\obj\Debug\ServerTVC.csproj.CoreCompileInputs.cache
+C:\Users\gl735v\source\repos\ServerTVC\ServerTVC\obj\Debug\ServerTVC.exe
+C:\Users\gl735v\source\repos\ServerTVC\ServerTVC\obj\Debug\ServerTVC.pdb
